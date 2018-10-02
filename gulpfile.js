@@ -41,5 +41,5 @@ gulp.task('minify-css', function() {
         .pipe(gulp.dest('pub/images'))
 }); 
 
-gulp.task("default", ["copyhtml", "concominjs", "watcher"]); 
+gulp.task("default", ["copyhtml", "concominjs", "watch", "minify-css"]); 
    
