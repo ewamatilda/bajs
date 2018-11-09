@@ -6,6 +6,13 @@ Man kan lätt arbeta med andra på en onlineserver och ser omedelbart när andra
 
 ### Paket och verktyg som använts ### 
 NPM installation av Gulp - paketet.
+**De paket som används för automatisering är:** 
+* gulp-clean-css 
+* gulp-concat 
+* gulp-imagemin
+* gulp-uglify
+* gulp-watch 
+
 
 **Verktyg:** Visual Studio Code, Kommandotolken, samt git och Github för uppladdning. 
 
